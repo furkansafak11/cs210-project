@@ -1,14 +1,14 @@
-# cs210-project
+## cs210-project
 
 
-##Data Exploring
+## Data Exploring
 Explore and conduct a quick analysis of the given data.
 
-##Data Visualization
+## Data Visualization
 Visualize the provided data.
 
-##Hypothesis Tests
+## Hypothesis Tests
 Generate hypothesis tests based on the graphs.
 
-##Regression
+## Regression
 Develop a regression model for net sales numbers.
